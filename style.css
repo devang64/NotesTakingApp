@@ -1,0 +1,25 @@
+body{
+    background-color: #f3f6ff;
+}
+
+
+.searchStyle{
+    
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.d-flex{width: 50%;
+}
+
+.mainHeading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.noteCard{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
